@@ -1,0 +1,33 @@
+.bg {
+  	background-image:url(../images/bg1.jpg);
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-bottom: 12%;
+}
+
+.l2{
+	margin:0 auto;
+}
+.wrapper {	
+	margin-top: 80px;
+  margin-bottom: 80px;
+}
+.form-signin {
+  max-width: 380px;
+  padding: 15px 35px 45px;
+  margin: 0 auto;
+} 
+ .l1{
+ color:white;
+ }
+ .h21{
+	 color:white;
+ text-align:center;
+ }
+ .i1{
+    border: 3px double#080808;
+ }
+
+ 

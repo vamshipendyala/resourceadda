@@ -1,0 +1,30 @@
+.head1{
+
+  background-color:#eaabaa !important;
+  padding: 5px;
+}
+.head1 button {
+    margin-top: 20px;
+}
+.m-t-20{
+  margin-top: 20px;
+}
+.ccc{
+      border: 1px solid #000;
+    padding: 10px;
+}
+
+
+   .move2 {
+        background-color: #2f58a5 !important;
+    padding: 14px;
+    border: 1px solid;
+    color: white;
+    text-align: center;
+   }
+  .marg{
+  	    margin-top: 2%;
+  } 
+ .m-t-75{
+  margin-top: 75px;
+ }

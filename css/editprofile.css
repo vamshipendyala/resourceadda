@@ -1,0 +1,60 @@
+.menu li {
+	display: inline-block;
+	padding: 10px;
+	font-size: 16px;
+	color: black;
+}
+.menu li a:hover{
+	color: white;
+	background-color: #765;
+}
+.menu li a{
+	font-weight: bold;
+}
+
+
+.ctnr p{
+	border-bottom: 1px solid black;
+	font-weight: bold;
+	color: #666563;
+	margin-top: 20px;
+}
+.r1 h5{
+	color: #32B0F8;
+	font-weight: bold;
+}
+
+.r1{
+	margin-top: 40px;
+}
+
+.feild label,input{
+	//width: 145%;
+	padding: 10px 0px;
+}
+.aside {
+	background-color:  #E8C186;
+	margin-top:40px;
+}
+.aside li{
+	padding: 15px 10px;
+	list-style: none;
+}
+.submit .btn{
+	//margin-left: 30%;
+	background-color: green; 
+}
+.menu i{
+	background-color: white;
+	padding: 6px;
+}
+.search{
+	margin: 16px 0px 0px 0px;
+}
+.feild1 input{
+	    margin: 53px 10px 0
+}
+.circle i{
+	color: white;
+	font-size: 14px;
+}

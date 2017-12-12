@@ -1,0 +1,37 @@
+ .input_css{
+ 	border:none;
+ 	border-bottom:1px solid black;
+ 	border-radius:0px;
+	outline: none;
+     -webkit-box-shadow: none;
+
+ }
+ .mrg_bt_15{
+ 	margin-bottom: 15px;
+
+ }
+ .form-control1:focus {
+    border-color: #000;
+    outline: 0 !important;
+     -webkit-box-shadow: none !important;
+     box-shadow: none !important;
+  
+}
+.login_css{
+	background-color: #14c0e8;
+}
+.form-control1{
+	background-color: #14c0e8;
+}
+.btn{
+	margin-bottom: 15px;
+}
+.btn1{
+	margin-top:30px;
+}
+.bun{
+	margin-top: 30px;
+
+}
+
+

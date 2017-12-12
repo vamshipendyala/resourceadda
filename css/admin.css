@@ -1,0 +1,93 @@
+.listitems ul{
+          margin-top:4%;
+          margin-bottom:4%;
+      }
+      .listitems>ul>li>a{
+          border: 1px solid black;
+          text-decoration: none;
+          padding: 14px 26px;
+          font-size: 19px;
+      }
+      .listitems>ul>li {
+          display: inline-block;
+          padding-right: 5px;
+          padding-left: 24px !important;
+        }
+      .box{
+          height: 154px;
+          background-color: #b4e2ef;
+          padding: 14% 0;
+      }
+       .background{
+            margin:2% 0;
+            background-image:url("https://cdn.pixabay.com/photo/2017/08/22/07/57/banner-2668046__340.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+       }
+       .background .btn {
+          border-radius: 0px !important;
+          margin: 8% 0%;
+        }
+      .green .fa {
+          background-color:green;
+          color:white;
+          padding:5px;
+          margin-right:3%;
+        }
+     .yellow .fa {
+          background-color:#FFC107;
+          color:white;
+          padding:5px;
+          margin-right:3%;
+        }
+     .pink .fa {
+          background-color:palevioletred;
+          color:white;
+          padding:5px;
+          margin-right:3%;
+        }   
+      .footeradmin{
+          background:#415e7d;
+          color:white;
+          padding:1% 0;
+          margin-top:2%;
+        }
+    @media (min-width:320px)and (max-width:375px){
+      .listitems>ul>li>a{
+          padding: 0px 7px;
+        } 
+        
+        .box{
+          margin:2% 0;
+          padding: 11% 0;
+        } 
+        }
+    @media (min-width:376px)and (max-width:425px){
+        .listitems>ul>li>a{
+                padding: 0px 9px;
+        }
+        .box{
+                margin:2% 0;
+                padding: 9% 0px;
+        }
+      }
+    @media (min-width:426px)and (max-width:768px){
+        .listitems>ul>li>a{
+                padding: 0px 15px;
+        } 
+        .listitems ul{
+            margin:2% 0;
+        }
+        .box{
+        margin:2% 0;
+        padding: 5% 0;
+    }
+    }
+    @media (min-width:769px)and (max-width:1024px){
+        .listitems>ul>li>a{
+                padding: 11px 13px;;
+        } 
+        .listitems ul{
+            margin:2% 0;
+        }
+    }

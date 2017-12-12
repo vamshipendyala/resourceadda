@@ -1,0 +1,222 @@
+.bigbox{
+    background-color: #30426A;
+}
+.bigbox a{
+    color: #fff;
+    text-decoration: none;
+}
+.bigbox ul {
+    list-style-type: none;
+}
+.bigbox ul li {
+    display: inline;
+    padding: 10px;
+}
+.boxpad {
+    padding: 10px 0px 0px 0px;
+    font-size: 24px;
+}
+.box1{
+    background-color: #30426A;
+    height: 620px;
+}
+ .box1 .navbar-nav {
+    margin-left: 25%;
+}
+.box1 ul li a{
+    color:white;
+    font-size: 18px;
+    text-decoration: none;
+}
+.box1 ul li{
+        margin-bottom: 2%;
+    padding: 22px 0px 0px 0px;
+}
+.fonticons{
+    font-size:22px;
+    margin-right: 4%;
+
+}
+/* .box1 ul li a:hover{
+     padding:6% 3%;
+     background-color: rgb(234, 187, 117) ;
+     color:rgb(68,92,167);
+ } */
+ .box2{
+    border: 1px solid #000;
+    padding: 20px;
+    text-align: center;
+    height: 100px;
+    border-radius: 35px;
+}
+.box-text{
+        margin-top: -22px;
+}
+.box2 i{
+    font-size: 50px;
+    }
+     .box2:hover{
+        background-color: #30426a;
+        color: #fff !important;
+    border: 1px solid #000;
+    padding: 20px;
+    text-align: center;
+    height: 100px;
+    border-radius: 35px;
+}
+.m-t-25{
+    margin-top: 25px;
+    }
+.box3{
+    background-color:#2F80E7;
+    height:60px;
+    color:#fff;
+}
+.box3 i{
+        margin-top: 15px;
+    font-size: 30px;
+    }
+    .box31{
+        background-color:#2B957A;
+    height:60px;
+    color:#fff;
+    }
+    .box31 i{
+        margin-top: 15px;
+    font-size: 30px;
+    }
+    .box-left{
+        background-color: #4DC5F9;
+        height: 60px;
+        text-align: center;
+        padding-top: 5px;
+        font-size: 18px;
+        color: #fff;
+        font-weight: bold;
+    }
+    .box-left a {
+    color: #fff;
+    text-decoration: none;
+}
+    .box32{
+        background-color:#564AA3;
+    height:60px;
+    color:#fff;
+    }
+    .box32 i{
+        margin-top: 15px;
+    font-size: 30px;
+    }
+    .box-left1{
+        background-color: #49C3A5;
+        height: 60px;
+        text-align: center;
+        padding-top: 5px;
+        font-size: 18px;
+        color: #fff;
+        font-weight: bold;
+    }
+    .box-left1 a {
+    color: #fff;
+    text-decoration: none;
+}
+.box-left2{
+        background-color: #7B6CD5;
+        height: 60px;
+        text-align: center;
+        padding-top: 5px;
+        font-size: 18px;
+        color: #fff;
+        font-weight: bold;
+    }
+     .box-left2 a {
+    color: #fff;
+    text-decoration: none;
+}
+    .box33{
+    background-color:#70BA63;
+    height:60px;
+    color:#fff;
+    }
+    .box33 i{
+        margin-top: 15px;
+        font-size: 30px;
+    }
+    .box-left3{
+        background-color: #9ECD96;
+        height: 60px;
+        text-align: center;
+        padding-top: 5px;
+        font-size: 18px;
+        color: #fff;
+        font-weight: bold;
+    }
+     .box-left3 a {
+    color: #fff;
+    text-decoration: none;
+}
+ @media (min-width:320px)and (max-width:374px){
+      .box1 ul li a{
+            font-size:19px;
+            line-height:49px;
+        }
+      .box1{
+          height: 400px;
+        }
+       .bigbox .navbar-nav {
+        margin-left: 6%;
+       }
+}
+}
+}
+
+@media (min-width:375px)and (max-width:425px){
+     .box1 ul li a{
+        font-size:19px;
+        line-height:49px;
+        }
+     .box1{
+          height: 400px;
+        }
+      .bigbox .navbar-nav {
+        margin-left:  6%;
+            }
+      .box2{
+          padding: 9% 0;
+        }
+        
+}
+@media (min-width:426px)and (max-width:768px){
+     .box1 ul li a{
+        font-size:19px;
+        line-height:49px;
+        }
+    .box1{
+         height: 400px;
+        }
+     .box2{
+          padding: 4% 0;
+        }
+    .bigbox .navbar-nav {
+        margin-left:  6%;
+         }
+   .navigationvendor .navbar-nav{
+       margin-left:3%;
+     }
+}
+@media (min-width:769px)and (max-width:1024px){
+     .bigbox ul {
+        margin-right: 26%;
+      }
+    .box1 ul li a{
+        font-size:15px;
+        line-height:80px;
+     }
+     .navigationvendor .navbar-nav{
+       margin-left:9%;
+     }
+     .bigbox .navbar-nav {
+        margin-left:  40%;
+    }
+}
+
